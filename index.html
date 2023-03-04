@@ -1,58 +1,42 @@
 <!DOCTYPE html>
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script
-    async
-    src="https://www.googletagmanager.com/gtag/js?id=G-XXGG6SJL6H"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXGG6SJL6H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag("config", "G-XXGG6SJL6H");
-  </script>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>lioxryt</title>
-  <link rel="icon" type="image/x-icon" href="/img/newlogo.png" />
-  <link
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
-    rel="stylesheet"
-    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
-    crossorigin="anonymous"
-  />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="/css/index.css" />
+  gtag('config', 'G-XXGG6SJL6H');
+</script>
+<script src="/js/scrollres.js"></script>
+<link rel="icon" type="image/x-icon" href="/img/newlogo.png" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>lioxryt's Game Stash</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1052398756898811925', // Unblocked Corner
+        channel: '1053462486571032576' // #goofy
+    })
+</script>
 </head>
 <body>
-  <a href="/html/settings/">
-      <img class="settings" src="/img/settings.png" />
+  <a href="/">
+      <img class="home" src="/img/home.png">
   </a>
-  <link rel="stylesheet" type="text/css" href="/css/index.css" />
-  <div style="text-align: center">
-    <img src="/img/newlogo.png" id="logo" />
-    <div id="subtitle" class="pop" onclick="newSub()">...</p></div>
-    <br />
-    <br />
-    <br />
- 
-    </p>
-    <a href="/games"
-      ><button class="start large-button">Start learning</button></a
-  
-      >.
-    </p>
+  <div class="text-center">
+    <input type="text" class="text-center" id="mySearch" onload="startSearch()" onkeyup="startSearch()" placeholder="Search for games..." title="Search" autofocus="">
   </div>
-  <div style="display: none;" >
-    <script type="text/javascript" src="other/counter/lll"></script>
-    <script
-      type="text/javascript"
-      src="https://www.freevisitorcounters.com/en/home/counter/974405/t/1"
-    ></script>
+  <a href="javascript:void(0);" onclick="const gameLinks = document.querySelectorAll('.game-link');const randomIndex = Math.floor(Math.random() * gameLinks.length);const randomLink = gameLinks[randomIndex];location.href = randomLink.href;">
+    <img class="rand" src="/img/rand.png">
+  </a>
+  <script src="/js/search.js"></script>
+  <div id="search" class="flex-container">
+    <br>
   </div>
-  <script src="/js/subtitle.js"></script>
+  <script src="/js/generategames.js"></script>
   <script src="/html/settings/js/index.js"></script>
-</body>
+  </body>
+  </html>
