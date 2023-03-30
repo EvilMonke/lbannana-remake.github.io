@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<head>
+  <script src="data/games.js"></script>
+  <script>
+    games.forEach(game => {
+      var card = document.createElement("div")
+      var image = document.createElement("img")
+      var text = document.createElement("h4")
+      card.classList.add("card")
+      card.addEventListener("click", () => {
+        window.location.href = `/load.html?game=${game.id}`
+      })
+      if (game.image) image.src = game.image
+      if (!game.image) image.src = "https://www.pngkey.com/png/full/167-1670247_white-globe-icon-png-holy-bible-new-international.png"
+      text.innerHTML = game.title
+      card.appendChild(image)
+      card.appendChild(text)
+      document.querySelector("#homepage-cards").appendChild(card)
+    })
+
+    const searchInput = document.querySelector('#search');
+    const items = document.querySelectorAll('.card');
+    
+    searchInput.addEventListener('input', function(event) {
+      const query = event.target.value.toLowerCase();
+      
+      items.forEach(function(item) {
+        const title = item.querySelector('.card h4').textContent.toLowerCase();
+        
+        if (title.includes(query)) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
+  </script>
+</body>
