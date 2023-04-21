@@ -18,14 +18,18 @@ im a beginner so i will learn css and add it when i fully understand it
 
 <h1>my idols</h1>
 
-![lioxryt](https://user-images.githubusercontent.com/100804904/233719675-670b0f48-9286-476b-a356-12e32a1f709e.png)
-![3kh0](https://user-images.githubusercontent.com/100804904/233719822-b34caa11-ca7f-436b-950b-1a70f013ed0c.jpg)
-![103917385](https://user-images.githubusercontent.com/100804904/233721454-ce76bf62-cdf8-441a-b5cc-df9a1945336d.png)
+![lioxryt](https://user-images.githubusercontent.com/100804904/233719675-670b0f48-9286-476b-a356-12e32a1f709e.png) <p>3kh0</p>
+![3kh0](https://user-images.githubusercontent.com/100804904/233719822-b34caa11-ca7f-436b-950b-1a70f013ed0c.jpg) <p>lioxryt</p>
+
+
+
+<h1>why i made this site</h1>
+It's simple really, I made this site so I could compete with the popular unblocked sites so i can feel good about my self
 
 
 <h1>my favorite south park moment</h1>
- I'm not racist btw so don't ban me
- 
+ I'm not racist btw so don't ban me.
+ I will take this down if requested
  ![image](https://user-images.githubusercontent.com/100804904/233722383-230ce74e-5dfb-4683-9582-c270a6c7238a.gif)
 
 
