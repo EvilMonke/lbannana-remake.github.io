@@ -18,8 +18,8 @@ im a beginner so i will learn css and add it when i fully understand it
 
 <h1>my idols</h1>
 
-![lioxryt](https://user-images.githubusercontent.com/100804904/233719675-670b0f48-9286-476b-a356-12e32a1f709e.png) <p>3kh0</p>
-![3kh0](https://user-images.githubusercontent.com/100804904/233719822-b34caa11-ca7f-436b-950b-1a70f013ed0c.jpg) <p>lioxryt</p>
+![lioxryt](https://user-images.githubusercontent.com/100804904/233719675-670b0f48-9286-476b-a356-12e32a1f709e.png) 
+![3kh0](https://user-images.githubusercontent.com/100804904/233719822-b34caa11-ca7f-436b-950b-1a70f013ed0c.jpg) 
 
 
 
