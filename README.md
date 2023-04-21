@@ -11,3 +11,4 @@ im a beginner so i will learn css and add it when i fully understand it
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/lbannana/lbannana.github.io)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/lbannana/lbannana.github.io)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/lbannana/lbannana.github.io)
+[![deploy on railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)]()
