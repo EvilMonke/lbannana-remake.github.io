@@ -31,7 +31,10 @@
   font-family: "Trebuchet MS", Verdana, sans-serif;
                   }
 	<div class="text-center">
-    <input type="text" class="text-center" id="mySearch" onload="startSearch()" onkeyup="startSearch()" placeholder="Search for games..." title="Search" autofocus="">
+    <div class="container">
+    <h2>Search games</h2>
+    <input id="searchbar" autocomplete="off" onkeyup="search()" type="text"\n name="search" placeholder="What are you looking for?">
+</div>
 		<script src="/js/search.js"></script>
 		  <br>
   <div id="search" class="flex-container">
