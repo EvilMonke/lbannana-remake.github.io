@@ -1,0 +1,171 @@
+body {
+  font-family: sans-serif;
+  font-size: "25px";
+  color: #ffffff;
+  text-align: left;
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  color: #0084ff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.game-link {
+  height: 180px;
+  width: 150px;
+}
+
+.game-tile {
+  background-color: #171717;
+  height: 180px;
+  width: 150px;
+  color: #ffffff;
+  border-radius: 15px;
+  border: solid 1px #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  -webkit-animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    both;
+  animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.game-title {
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: -100%;
+  transition: all 0.3s ease-out;
+  width: 100%;
+}
+
+.game-tile:hover .game-title {
+  bottom: -15px;
+}
+
+.game-tile:hover {
+  text-decoration: none;
+  -webkit-animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1)
+    both;
+  animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+.game-icon {
+  width: 150px;
+  height: 180px;
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  100% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  100% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+
+@-webkit-keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  order: 0;
+  flex-grow: 0;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  padding: 10px;
+}
+
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#mySearch {
+  width: 50%;
+  text-align: center;
+  font-size: 18px;
+  padding: 11px;
+  border: 3px solid #ddd;
+  border-radius: 30px;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  padding-top: 3.5vw;
+}
+
+h2 span {
+  padding: 0 10px;
+}
+.topleft {
+  position: absolute;
+  top: 10px;
+  right: 15;
+}
+.rand {
+  position: absolute;
+  left: 97%;
+  top: 10px;
+}
