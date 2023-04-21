@@ -20,6 +20,8 @@ im a beginner so i will learn css and add it when i fully understand it
 
 ![lioxryt](https://user-images.githubusercontent.com/100804904/233719675-670b0f48-9286-476b-a356-12e32a1f709e.png)
 ![3kh0](https://user-images.githubusercontent.com/100804904/233719822-b34caa11-ca7f-436b-950b-1a70f013ed0c.jpg)
+![103917385](https://user-images.githubusercontent.com/100804904/233721454-ce76bf62-cdf8-441a-b5cc-df9a1945336d.png)
+![siteIcon](https://user-images.githubusercontent.com/100804904/233721685-44d7c061-96ae-48dd-ac85-13af6553ac8a.png)
 
 
 
