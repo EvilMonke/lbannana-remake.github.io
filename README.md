@@ -1,5 +1,6 @@
    <h1>lbannana unblocked games</h1>
-   <p>NOTICE some games are in different repositories so thats why some might not work</p>
+   <p1>NOTICE some games are in different repositories so thats why some might not work</p1>
+   <p>i code ig</p>
 im a beginner so i will learn css and add it when i fully understand it
 
    <h1>deploy options</h1>
