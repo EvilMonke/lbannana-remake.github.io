@@ -2,7 +2,7 @@
    <p>NOTICE some games are in different repositories so thats why some might not work.</p>
    i code ig. made this shitty site in a day. (and it shows)
    
-im a beginner so i will learn css and add it when i fully understand it
+im a beginner so i will learn css and add it when i fully understand it. 
 
    <h1>deploy options</h1>
    
@@ -27,10 +27,14 @@ im a beginner so i will learn css and add it when i fully understand it
 It's simple really, I made this site so I could compete with the popular unblocked sites so i can feel good about my self
 
 
+<h1>about this site</h1>
+This site has a MASSIVE collection of flash, html, and emulated games. This site also includes some apps an proxies. I am always adding games pretty much whenever i can so look for updates and enjoy.
+
+
 <h1>my favorite south park moment</h1>
  I'm not racist btw so don't ban me.
  I will take this down if requested
- ![image](https://user-images.githubusercontent.com/100804904/233722383-230ce74e-5dfb-4683-9582-c270a6c7238a.gif)
+![233722383-230ce74e-5dfb-4683-9582-c270a6c7238a](https://user-images.githubusercontent.com/100804904/233791754-318dc7c4-4808-4e21-8a59-80e791404564.gif)
 
 
 
