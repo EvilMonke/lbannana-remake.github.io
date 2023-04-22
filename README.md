@@ -34,7 +34,7 @@ This site has a MASSIVE collection of flash, html, and emulated games. This site
 <h1>my favorite south park moment</h1>
  I'm not racist btw so don't ban me.
  I will take this down if requested
-![233722383-230ce74e-5dfb-4683-9582-c270a6c7238a](https://user-images.githubusercontent.com/100804904/233791754-318dc7c4-4808-4e21-8a59-80e791404564.gif)
+(https://user-images.githubusercontent.com/100804904/233791754-318dc7c4-4808-4e21-8a59-80e791404564.gif)
 
 
 
