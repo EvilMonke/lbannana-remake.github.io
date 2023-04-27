@@ -1,15 +1,7 @@
    <h1>lbannana unblocked games</h1>
    <p>NOTICE some games are in different repositories so thats why some might not work.</p>
    i code ig. made this shitty site in a day. (and it shows)
-   
-   
-  <h1>Thanks for the contributors:</h1>
-  ![112288125](https://user-images.githubusercontent.com/100804904/234743171-4f9e9a5b-7784-4dbe-b7bc-451e6c2cd238.jpg)
-![100804904](https://user-images.githubusercontent.com/100804904/234743200-5f700167-0f81-453e-84f5-c0c554153117.png)
-
-   
-   
-im a beginner so i will learn css and add it when i fully understand it. 
+  im a beginner so i will learn css and add it when i fully understand it. 
 
    <h1>deploy options</h1>
    
