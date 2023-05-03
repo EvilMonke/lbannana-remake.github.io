@@ -1,5 +1,5 @@
    <h1>lbannana unblocked games</h1>
-  go to my <a href="https://github.com/lbannana/lbannana-assets">lbannana assets</a> repo and fork and star it pls because thats where the new game storage repo is
+  <p>go to my <a href="https://github.com/lbannana/lbannana-assets">lbannana assets</a> repo and fork and star it pls because thats where the new game storage repo is.</p>
   i code ig. made this shitty site in a day. (and it shows)
   im a beginner so i will learn css and add it when i fully understand it. 
 
