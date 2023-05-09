@@ -3,6 +3,13 @@
   i code ig. made this shitty site in a day. (and it shows)
   im a beginner so i will learn css and add it when i fully understand it.
   (update) added a bit of css
+  ![Opera Snapshot_2023-05-03_202855_kingofsteves1 github io](https://github.com/lbannana/lbannana.github.io/assets/100804904/6d3402c3-9bbe-44ab-8668-a95d615629e8)
+![Screenshot (1)](https://github.com/lbannana/lbannana.github.io/assets/100804904/2a226faf-4451-4d01-b022-309d28e41de9)
+<img width="926" alt="Screenshot 2023-05-09 185444" src="https://github.com/lbannana/lbannana.github.io/assets/100804904/d38e0b15-918e-40e0-8b2c-c6bc73569b4a">
+
+  
+  <h1>before and after css</h1>
+  
 
    <h1>deploy options</h1>
    
