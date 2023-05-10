@@ -4,7 +4,8 @@
   im a beginner so i will learn css and add it when i fully understand it.
   (update) added a bit of css
   
-    <h1>before and after css</h1>
+    
+  <h1>before and after css</h1>
     
     
   ![Opera Snapshot_2023-05-03_202855_kingofsteves1 github io](https://github.com/lbannana/lbannana.github.io/assets/100804904/6d3402c3-9bbe-44ab-8668-a95d615629e8)
